@@ -19,3 +19,5 @@ To avoid miscommunication in the future, weâ€™re going to make sure that thereâ€
     + The fields should allow the user to enter only digits
     + The transfer time should be displayed to one decimal place (e.g. 8.4 seconds)
     + 1 B = 8 b; 1 MiB = 220 B; 1 Mbps = 106 bps
+## Acknowledgement
+-   **Professor Kenytt Avery** - _kavery@fullerton.edu_ - California State University, Fullerton
